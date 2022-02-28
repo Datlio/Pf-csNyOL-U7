@@ -1503,9 +1503,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 youtu.be
 0.0.0.0 vm.tiktok.com
 0.0.0.0 m.facebook.com 
-0.0.0.0 outlook.live.com
-0.0.0.0 office.live.com
-0.0.0.0 login.live.com
+#0.0.0.0 outlook.live.com
+#0.0.0.0 office.live.com
+#0.0.0.0 login.live.com
 0.0.0.0 bancodebogota.com 
 0.0.0.0 banrep.gov.co
 0.0.0.0 bancodeoccidente.com.co 
