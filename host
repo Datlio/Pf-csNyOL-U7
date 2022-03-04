@@ -2585,6 +2585,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.musically.com
 0.0.0.0 www.hq.vevo.com 
 0.0.0.0 www.livestream.com 
+0.0.0.0 mobile.twitter.com
+0.0.0.0 www.mobile.twitter.com
 0.0.0.0 www5.minijuegosgratis.com
 0.0.0.0 www4.minijuegosgratis.com
 0.0.0.0 www3.minijuegosgratis.com
